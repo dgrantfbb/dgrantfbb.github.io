@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[457],{9457:function(l,e,n){n.r(e);var t=n(6459),a=(n(2791),n(7399)),s=n(184);e.default=function(l){Object.assign({},((0,t.Z)(l),l));return(0,s.jsx)("ul",{className:"text-xl text-black max-w-5xl xl:max-w-3xl Anuphan ",children:a.dM.map((function(l,e){return(0,s.jsx)("li",{className:"mb-4",children:l},e)}))})}}}]);
+//# sourceMappingURL=457.383fd55b.chunk.js.map

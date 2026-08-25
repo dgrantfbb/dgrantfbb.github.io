@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[747],{747:function(e,l,s){s.r(l);var a=s(1413),i=s(6459),r=(s(2791),s(521)),t=s(184);l.default=function(e){var l=Object.assign({},((0,i.Z)(e),e));return(0,t.jsx)("div",(0,a.Z)((0,a.Z)({className:"flex relative my-10 max-w-7xl flex-col "},l),{},{children:(0,t.jsx)(r.Z,{size:!0})}))}}}]);
+//# sourceMappingURL=747.02e404ef.chunk.js.map

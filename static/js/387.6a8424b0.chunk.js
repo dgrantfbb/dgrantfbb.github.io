@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprotfolio=self.webpackChunkprotfolio||[]).push([[387],{3387:function(e,t,i){i.r(t);var l=i(184);t.default=function(){return(0,l.jsx)("div",{className:"z-10 left-0  top-0 items-center justify-center inline-block",children:(0,l.jsx)("h1",{className:"portfolio-title backdrop-blur-sm z-20 relative opacity-0",children:"\xa0"})})}}}]);
+//# sourceMappingURL=387.6a8424b0.chunk.js.map

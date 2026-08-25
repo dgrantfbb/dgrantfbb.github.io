@@ -1,0 +1,96 @@
+{
+  "frames": {
+    "rollSequence000.png": {
+      "frame": { "x": 0, "y": 0, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence001.png": {
+      "frame": { "x": 76, "y": 0, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence002.png": {
+      "frame": { "x": 152, "y": 0, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence003.png": {
+      "frame": { "x": 228, "y": 0, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence004.png": {
+      "frame": { "x": 0, "y": 84, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence005.png": {
+      "frame": { "x": 76, "y": 84, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence006.png": {
+      "frame": { "x": 152, "y": 84, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence007.png": {
+      "frame": { "x": 228, "y": 84, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence008.png": {
+      "frame": { "x": 0, "y": 168, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence009.png": {
+      "frame": { "x": 76, "y": 168, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence0010.png": {
+      "frame": { "x": 152, "y": 168, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    },
+    "rollSequence0011.png": {
+      "frame": { "x": 228, "y": 168, "w": 76, "h": 84 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 38, "y": 42, "w": 76, "h": 84 },
+      "sourceSize": { "w": 76, "h": 84 }
+    }
+  },
+  "meta": {
+    "app": "",
+    "version": "1.0",
+    "image": "../img/birds_spritesheet_flip.png",
+    "format": "RGBA8888",
+    "size": { "w": 308, "h": 270 },
+    "scale": "1"
+  }
+}
