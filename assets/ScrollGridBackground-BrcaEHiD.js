@@ -1,4 +1,4 @@
-import{Dt as e,Et as t,Ot as n,St as r,i,r as a}from"./index-C-9Z99sU.js";var o=n(e(),1);function s(){let[e,t]=(0,o.useState)({x:.5,y:.5});return(0,o.useEffect)(()=>{let e=e=>{t({x:Math.min(1,Math.max(0,e.clientX/window.innerWidth)),y:Math.min(1,Math.max(0,1-e.clientY/window.innerHeight))})};return window.addEventListener(`pointermove`,e,{passive:!0}),()=>window.removeEventListener(`pointermove`,e)},[]),e}var c=`
+import{Dt as e,Et as t,Ot as n,St as r,i,r as a}from"./index-BMnf5KE3.js";var o=n(e(),1);function s(){let[e,t]=(0,o.useState)({x:.5,y:.5});return(0,o.useEffect)(()=>{let e=e=>{t({x:Math.min(1,Math.max(0,e.clientX/window.innerWidth)),y:Math.min(1,Math.max(0,1-e.clientY/window.innerHeight))})};return window.addEventListener(`pointermove`,e,{passive:!0}),()=>window.removeEventListener(`pointermove`,e)},[]),e}var c=`
 void main() {
   gl_Position = vec4(position.xy, 0.0, 1.0);
 }
