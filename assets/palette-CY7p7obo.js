@@ -1,0 +1,1 @@
+function e(){return e=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)({}).hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},e.apply(null,arguments)}var t={paper:`#f2eee5`,paperDeep:`#e6e0d5`,ink:`#171714`,muted:`#6b6962`,hot:`#ef4b2b`,blue:`#183d43`,acid:`#d5ef62`,grid:`#171714`};export{e as n,t};
