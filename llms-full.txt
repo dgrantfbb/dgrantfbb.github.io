@@ -1,0 +1,119 @@
+# David Grant: The Human Side of Systems
+
+Independent engineering practice. Software, AI, and systems, shipped for people who use them.
+
+Generated from the English portfolio content for AI agents and crawlers.
+Prefer this file over inventing details. The interactive site may show additional languages.
+
+## Positioning
+
+Independent engineering practice. Software / AI / Systems.
+
+Make it work. Make it matter.
+
+I turn complicated ideas into useful, working systems. From production platforms to local AI and business automation.
+
+A practice, not a pitch deck. Software engineering shaped by curiosity, practical problem-solving, and the realities of shipping things people use.
+
+## Selected work
+
+A selection of production software and engineering work across multitenant platforms, responsive interfaces, infrastructure, and reusable systems. Project descriptions stay tied to the known record.
+
+### FullBeauty Brands
+01: Commerce platform · Next.js (https://www.womanwithin.com/)
+A rebuild of an 18-site multitenant application. A shared platform approach to a broad family of retail experiences.
+
+### Amazon Alexa
+02: Interface engineering · Templates
+Responsive templates built to be more readable and substantially smaller than the proprietary-language originals.
+
+### MSG / New York Knicks
+03: Sports & media · Web platform (https://www.nba.com/knicks/)
+A Knicks website built before the move to WordPress, with a multitenant template approach.
+
+### Active Twist
+04: Engineering systems · CI/CD · AI (https://activetwist.com/)
+Engineering foundations: AI-driven frameworks, architecture, CI/CD standards, and monitoring.
+
+### DEFY SciTech
+05: Web & business · PHP / CMS (https://defyscitech.com/)
+Reusable custom CMS foundations applied across client websites, including Ways Associates and Dent Family Construction.
+
+### Northstar
+06: Fintech · Internal platform (https://www.northstarmoney.com/)
+Refactoring and cleanup of an internal fintech platform, improving the underlying structure of existing software.
+
+### Ways Associates
+07: Business automation · PHP / CMS (http://waysassociates.com/)
+A custom CMS built for a small business, with a focus on simplicity and ease of use.
+
+### DEFY With AI
+08: AI-powered business automation · PHP / CMS (https://defywith.ai/)
+A custom AI-powered business automation platform built for a small business, with a focus on simplicity and ease of use.
+
+## Approach
+
+Curiosity is useful. Delivery is the point.
+Good engineering is more than making something technically impressive. It means understanding the problem, choosing a workable path, and being honest about what the result does and doesn't do.
+
+Capabilities:
+- 01. Production software
+- 02. Full-stack development
+- 03. Applied AI / local LLMs
+- 04. RAG & knowledge tools
+- 05. Business automation
+- 06. Architecture & delivery
+
+## Lab
+
+An evolving notebook for experiments and work in progress. These are areas of exploration, not claims of finished products or benchmark results.
+
+Featured experiment: ComfyUI / random generated character. Drag to orbit. A 3D experiment from the lab.
+
+### LAB NOTE / 001: Local AI in the real world.
+Model fit, GPU memory, inference trade-offs, and what can realistically run on personal hardware.
+State: Exploration
+
+### LAB NOTE / 002: Answers with receipts.
+Retrieval-augmented generation and citation-backed search over local documents, code, and project knowledge.
+State: Research / prototype
+
+### LAB NOTE / 003: Automation for actual operators.
+Agentic workflows and integrations designed around useful work, not demos that stop at the happy path.
+State: Ongoing
+
+### LAB NOTE / 004: Small tools. Useful systems.
+Product ideas including a local knowledge agent, a desktop audio app, and a Laravel commerce CMS.
+State: Mixed stages
+
+## Field notes
+
+Public releases and extensions you can open today: installers, docs, and tools that already ship.
+
+### PageBuilder (Release)
+Local-first visual page builder (Terracraft Studio). Design on a canvas, refine in code, export HTML, PDF, or ZIP, with optional MCP partners on your machine.
+https://github.com/dgrantfbb/PageBuilder-Releases
+
+### Local SME (Release)
+RAG-powered knowledge Q&A with citations on your machine. Ingest docs and sites, ask grounded questions, and hand off when the model needs a human.
+https://github.com/dgrantfbb/LocalSME-Releases
+
+### MCP Garage (v0.2.1)
+Open VSX extension to park and unpark global MCP servers so unused tool schemas leave the prompt.
+https://open-vsx.org/extension/DavidGrant/mcp-garage
+
+## About
+
+Builder first. Titles second.
+
+Hands-on engineering, system thinking, and a bias toward making useful things.
+
+I'm David Grant, a full-stack engineer working across production software, reusable application foundations, and applied AI. I like understanding how the pieces fit together, and making the result practical for the people who use it.
+
+I'm open to engineering opportunities and consulting conversations.
+
+## Contact
+
+- Email: drgrant.web@gmail.com
+- GitHub: https://github.com/dgrantfbb
+- LinkedIn: https://www.linkedin.com/in/david-r-grant/

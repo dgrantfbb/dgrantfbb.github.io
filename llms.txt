@@ -1,0 +1,22 @@
+# David Grant
+
+> Independent engineering practice. Software, AI, and systems, shipped for people who use them.
+
+Independent engineering practice: software, AI, and systems.
+This file helps AI agents find readable portfolio content without executing the SPA.
+
+## Primary content
+
+- [Full portfolio text](/llms-full.txt): English narrative (work, approach, lab, field notes, about)
+- [Interactive site](/): Visual portfolio (multiple languages available in the UI)
+
+## Contact
+
+- Email: drgrant.web@gmail.com
+- GitHub: https://github.com/dgrantfbb
+- LinkedIn: https://www.linkedin.com/in/david-r-grant/
+
+## Notes
+
+- English is the source of truth for AI mirrors. Other locales live in the SPA only.
+- Do not invent metrics, clients, or claims beyond /llms-full.txt and the visible site.

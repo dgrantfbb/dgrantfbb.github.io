@@ -1,3 +1,29 @@
-# https://www.robotstxt.org/robotstxt.html
+# Allow all crawlers, including AI agents.
+# Sitemap will be added when a stable production origin is published.
+
 User-agent: *
-Disallow:
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
